@@ -1,0 +1,73 @@
+[
+    {
+      "title": "Classic Chocolate Chip Cookies",
+      "small_description": "Delicious homemade chocolate chip cookies.",
+      "price": 2.99,
+      "recipe_description": "Indulge in the classic goodness of homemade chocolate chip cookies. Crispy on the edges, chewy in the center, and loaded with chocolate chips. This recipe is perfect for satisfying your sweet cravings.",
+      "image_url": "chocolate_chip_cookies.jpeg"
+    },
+    {
+      "title": "Creamy Tomato Basil Pasta",
+      "small_description": "Rich and creamy tomato basil pasta.",
+      "price": 8.49,
+      "recipe_description": "Experience the comfort of creamy tomato basil pasta. Made with ripe tomatoes, fresh basil, and a rich cream sauce, this dish is a delightful blend of flavors. Serve it with your favorite type of pasta for a satisfying meal.",
+      "image_url": "tomato_basil_pasta.jpg"
+    },
+    {
+      "title": "Grilled Chicken Caesar Salad",
+      "small_description": "Grilled chicken on a bed of crisp romaine lettuce.",
+      "price": 6.99,
+      "recipe_description": "Enjoy a healthy and flavorful Grilled Chicken Caesar Salad. Tender grilled chicken is placed on a bed of crisp romaine lettuce, topped with freshly grated Parmesan cheese, croutons, and tangy Caesar dressing. This salad is a great choice for a light lunch or dinner.",
+      "image_url": "chicken_caesar_salad.jpg"
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "small_description": "Classic Italian pasta dish with bacon and eggs.",
+      "price": 9.99,
+      "recipe_description": "Indulge in the creamy and rich flavors of Spaghetti Carbonara. This classic Italian dish features al dente pasta tossed with crispy bacon, eggs, Parmesan cheese, and freshly ground black pepper. It's comfort food at its finest.",
+      "image_url": "spaghetti_carbonara.jpeg"
+    },
+    {
+      "title": "Mouthwatering Burger",
+      "small_description": "Juicy beef patty with all the fixings.",
+      "price": 7.49,
+      "recipe_description": "Sink your teeth into a mouthwatering burger. A juicy beef patty is topped with melted cheese, lettuce, tomato, onion, pickles, and your choice of condiments. Served in a fresh bun, this burger is a true delight.",
+      "image_url": "mouthwatering_burger.jpeg"
+    },
+    {
+      "title": "Roasted Vegetable Medley",
+      "small_description": "Colorful assortment of roasted vegetables.",
+      "price": 5.99,
+      "recipe_description": "Savor the flavors of a roasted vegetable medley. A colorful assortment of bell peppers, zucchini, carrots, and onions are seasoned and roasted to perfection. This dish is a great option for a healthy and delicious side.",
+      "image_url": "roasted_vegetables.jpg"
+    },
+    {
+      "title": "Lemon Herb Grilled Salmon",
+      "small_description": "Fresh salmon fillet marinated in lemon and herbs.",
+      "price": 12.99,
+      "recipe_description": "Delight in the taste of Lemon Herb Grilled Salmon. A fresh salmon fillet is marinated in a zesty blend of lemon, garlic, and herbs, then grilled to perfection. This dish is a wonderful choice for seafood enthusiasts.",
+      "image_url": "grilled_salmon.jpeg"
+    },
+    {
+      "title": "Homestyle Mac and Cheese",
+      "small_description": "Creamy macaroni and cheese baked to golden perfection.",
+      "price": 6.49,
+      "recipe_description": "Relish in the comfort of Homestyle Mac and Cheese. Creamy macaroni is coated in a rich cheese sauce, topped with breadcrumbs, and baked until golden and bubbly. This dish is the ultimate in cheesy goodness.",
+      "image_url": "mac_and_cheese.jpeg"
+    },
+    {
+      "title": "Fresh Berry Parfait",
+      "small_description": "Layers of yogurt, granola, and fresh berries.",
+      "price": 4.99,
+      "recipe_description": "Indulge in the sweetness of a Fresh Berry Parfait. Layers of creamy yogurt, crunchy granola, and a colorful array of fresh berries come together in this delightful dessert. It's a refreshing treat for any time of day.",
+      "image_url": "berry_parfait.jpeg"
+    },
+    {
+      "title": "Savory Vegetable Stir-Fry",
+      "small_description": "Assorted vegetables stir-fried to perfection.",
+      "price": 7.99,
+      "recipe_description": "Experience the flavors of a Savory Vegetable Stir-Fry. Colorful bell peppers, broccoli, carrots, and snap peas are quickly stir-fried with a savory sauce. This dish is a great way to enjoy the natural tastes of vegetables.",
+      "image_url": "vegetable_stir_fry.jpeg"
+    }
+  ]
+  
